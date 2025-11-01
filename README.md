@@ -22,7 +22,7 @@ By proactively addressing these drivers, telecom companies can enhance customer 
 📊 Key Insights
 
 🔹 Overall Churn Rate:
-Approximately 18–22% of customers were found to be at churn risk.
+   Approximately 18–22% of customers were found to be at churn risk.
 🔹 Top 3 Churn Drivers:
 * Short Tenure – New customers (<6 months) show 2.5× higher churn.
 * Month-to-Month Plans – Flexible contracts have higher churn rates than annual/postpaid ones.
